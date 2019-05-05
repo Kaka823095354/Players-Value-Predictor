@@ -8,8 +8,8 @@ Neural Network predicts the market value of a football player using his age, rat
 * matplotlib(optional)
 
 **How to run?**
-To run network and data_cleaner run ipynb file
-To run predictor:
+To run network and data_cleaner run ipynb file. <br />
+To run predictor: <br />
 `python3 predictor.py`
 
 **Source of Data**
